@@ -8,7 +8,7 @@ appstore_link                             : https://testflight.apple.com/join/KB
 playstore_link                            : https://appdistribution.firebase.dev/i/8f3f2106278c0e9e
 presskit_download_link                    : 
 
-app_icon                                  : /assets/appicon.png
+app_icon                                  : assets/appicon.png
 app_name                                  : OffCampus
 app_price                                 : 
 app_description                           : OffCampus is an essential app for university life, meeting new friends and discussing about courses and interests.
@@ -65,7 +65,7 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : /assets/headerimage.jpg                    # Replace with alternative image path or image URL.
+cover_image                               : assets/headerimage.jpg                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
