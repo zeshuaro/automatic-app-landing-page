@@ -334,7 +334,7 @@ nav > ul li a:active {
 } 
 
 .downloadButtonsContainer {
-	display: inline-block;
+	display: flex;
 	margin-top: 42px;
 	filter: $drop-shadow;
 }
@@ -343,6 +343,14 @@ nav > ul li a:active {
 
 	.downloadButtonsContainer {
 		text-align: center;
+	}
+	
+} 
+
+@media only screen and (max-width: 528px) {
+
+	.downloadButtonsContainer {
+		flex-direction: column;
 	}
 	
 } 
